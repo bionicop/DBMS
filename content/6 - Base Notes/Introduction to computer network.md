@@ -39,9 +39,9 @@ It's like having a superpower in our connected world. Here's why it's awesome:
 This map will reveal secrets as time goes by. Once I have completed most of it, I will place this _**Holy Map**_ in your hands so that you, my Pirate, can navigate the *endless sea of networking* and create your own *holy map*.
 
 1. [[Internet and Protocols of Computer networking|Internet Basics]]: The big picture of how it all works.
+2. [[Application Layer| ]]: Where your favourite apps live
 
 > [!question]- *Soon to be accessible land.*
-> **Application Layer**: Where your favorite apps live
 > **Transport Layer**: How data travels reliably
 > **Network Layer**: Routing data across the globe
 > **Link Layer**: The local neighborhood of networking
